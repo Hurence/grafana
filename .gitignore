@@ -40,7 +40,10 @@ public/css/*.min.css
 .vscode/
 .vs/
 
-/data/*
+/data/grafana.db
+/data/plugins/simple-json-datasource/*
+/data/log/*
+/data/png/*
 /bin/*
 
 # devenv

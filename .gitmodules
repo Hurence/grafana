@@ -1,0 +1,3 @@
+[submodule "data/plugins/grafana-historian-datasource"]
+	path = data/plugins/grafana-historian-datasource
+	url = https://github.com/Hurence/grafana-historian-datasource
