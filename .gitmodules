@@ -1,3 +1,6 @@
 [submodule "data/plugins/grafana-historian-datasource"]
 	path = data/plugins/grafana-historian-datasource
 	url = https://github.com/Hurence/grafana-historian-datasource
+[submodule "data/plugins/simple-annotations-plugin"]
+	path = data/plugins/simple-annotations-plugin
+	url = https://github.com/fzakaria/simple-annotations-plugin.git
